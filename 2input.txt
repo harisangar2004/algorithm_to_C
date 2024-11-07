@@ -1,0 +1,10 @@
+start                                                                                                                                                                   
+declare int var1                                                                                                                                                        
+declare int var2                                                                                                                                                        
+assign var1 to 10                                                                                                                                                       
+assign var2 to 5                                                                                                                                                        
+print "helloworld"                                                                                                                                                      
+print var1+var2                                                                                                                                                         
+forloop i range 0 10 incr by 1                                                                                                                                          
+endfor                                                                                                                                                                  
+end  
