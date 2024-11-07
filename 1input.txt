@@ -1,0 +1,10 @@
+start
+declare int a
+declare int b
+assign a to 10
+assign b to 5
+print a + b
+print a - b
+print a * b
+print a / b
+end
