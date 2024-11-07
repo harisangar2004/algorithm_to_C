@@ -1,0 +1,9 @@
+start
+declare int var1
+assign var1 to 10
+print var1
+print "malai"
+forloop i range 0 10 incr by 1
+print i
+endfor
+end
