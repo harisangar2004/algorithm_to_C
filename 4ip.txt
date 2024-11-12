@@ -1,0 +1,12 @@
+start                                                                                                                                                                   
+declare int var1                                                                                                                                                        
+assign var1 to 10                                                                                                                                                       
+print var1                                                                                                                                                              
+print "malai"                                                                                                                                                           
+forloop i range 0 10 incr by 1                                                                                                                                          
+print i                                                                                                                                                                 
+endfor                                                                                                                                                                  
+if i < 5 then print "hello" else print "world"                                                                                                                          
+while i < 5 do print i incr by 2 endwhile                                                                                                                               
+create function add with parameters int a, int b declare int result forloop i range 0 10 incr by 2 print i endfor return i                                              
+end        
